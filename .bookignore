@@ -1,0 +1,9 @@
+# GitBook 忽略文件目录
+
+# 忽略 git 提交忽略文件
+.gitignore
+
+# 忽略 GitBook 输出的 HTML 代码
+gitbook
+*.html
+search_index.json
